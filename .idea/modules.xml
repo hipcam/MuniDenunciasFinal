@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\alexi\Downloads\LabCalificado3-master\LabCalificado3.iml" filepath="C:\Users\alexi\Downloads\LabCalificado3-master\LabCalificado3.iml" />
+      <module fileurl="file://C:\Users\alexi\Downloads\MuniDenuncias-master\LabCalificado3-master.iml" filepath="C:\Users\alexi\Downloads\MuniDenuncias-master\LabCalificado3-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuniDenuncias-master.iml" filepath="$PROJECT_DIR$/MuniDenuncias-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\alexi\Downloads\LabCalificado3-master\app\app.iml" filepath="C:\Users\alexi\Downloads\LabCalificado3-master\app\app.iml" />
+      <module fileurl="file://C:\Users\alexi\Downloads\MuniDenuncias-master\app\app.iml" filepath="C:\Users\alexi\Downloads\MuniDenuncias-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
